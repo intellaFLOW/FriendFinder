@@ -2,4 +2,4 @@
 
 Need a homie? Let's find you one, follow the link below!
 
-find-a-homie.herokuapp.com
+https://find-a-homie.herokuapp.com
